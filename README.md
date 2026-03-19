@@ -107,7 +107,7 @@ The objective of this task is to enhance predictive modeling by:
 This task demonstrates the **importance of feature engineering and data-driven optimization** for churn prediction.  
 Key outcomes:
 - Baseline Random Forest accuracy: ~84–85%  
-- After feature engineering + RFE: ~87–88%  
+- After feature engineering: ~87–88%  
 - Structured approach combining **feature creation, selection, and model tuning** leads to better predictive models  
 
 ---
